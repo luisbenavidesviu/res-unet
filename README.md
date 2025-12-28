@@ -88,7 +88,10 @@ Script para entrenar el modelo con:
 
 - TensorFlow/Keras
 - NumPy
-- Pillow (PIL)
+- jupyter
+- pandas
+- matplotlib
+- opencv-python-headless
 
 Para instalar:
 ```bash
