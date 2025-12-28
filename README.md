@@ -78,7 +78,7 @@ Script para entrenar el modelo con:
 
 ## Referencia
 
-- **Papel Original:** Deep Residual U-Net for Segmentation Tasks
+- **Papel Original:** [Road Extraction by Deep Residual U-Net](https://arxiv.org/pdf/1711.10684)
 - **Repositorio Base:** https://github.com/DuFanXin/deep_residual_unet
 - **Dataset:** Universidad de Massachusetts (PASCAL VOC / similar)
 
