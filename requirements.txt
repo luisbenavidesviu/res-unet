@@ -1,0 +1,6 @@
+tensorflow
+jupyter
+pandas
+numpy
+matplotlib
+opencv-python-headless
